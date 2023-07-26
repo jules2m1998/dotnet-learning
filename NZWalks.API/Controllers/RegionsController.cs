@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using NZWalks.API.Models.Domain;
 using NZWalks.API.Models.DTOs;
 using NZWalks.API.Repositories;
+using System.Net;
 using System.Text.Json;
 
 namespace NZWalks.API.Controllers;
